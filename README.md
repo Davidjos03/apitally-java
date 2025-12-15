@@ -1,4 +1,5 @@
 <p align="center">
+  
   <a href="https://apitally.io" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://assets.apitally.io/logos/logo-horizontal-new-dark.png">
@@ -9,6 +10,16 @@
 </p>
 <p align="center"><b>API monitoring & analytics made simple</b></p>
 <p align="center" style="color: #ccc;">Real-time metrics, request logs, and alerts for your APIs — with just a few lines of code.</p>
+
+<p align="center">
+  <a href="mailto:stanley.eugene.wilson@gmail.com">
+    <img src="https://img.shields.io/badge/Email-stanley.eugene.wilson@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/lorine93s">
+    <img src="https://img.shields.io/badge/Telegram-@lorine93s-2AABEE?style=flat&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
 <br>
 <img alt="Apitally screenshots" src="https://assets.apitally.io/screenshots/overview.png">
 <br>
