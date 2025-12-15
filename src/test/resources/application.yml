@@ -1,0 +1,19 @@
+apitally:
+  client-id: 00000000-0000-0000-0000-000000000000
+  env: test
+  request-logging:
+    enabled: true
+    query-params-included: true
+    request-headers-included: true
+    request-body-included: true
+    response-body-included: true
+    response-headers-included: true
+    callbacks-class: io.apitally.spring.app.RequestLoggingCallbacks
+
+spring:
+  main:
+    banner-mode: off
+
+logging:
+  level:
+    io.apitally: DEBUG
